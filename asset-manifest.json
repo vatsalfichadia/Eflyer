@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Eflyer/static/css/main.76429c10.css",
+    "main.js": "/Eflyer/static/js/main.644f5175.js",
+    "static/js/787.bed377d1.chunk.js": "/Eflyer/static/js/787.bed377d1.chunk.js",
+    "static/media/f-p-9.jpg": "/Eflyer/static/media/f-p-9.6aa7034c329553ff7dc9.jpg",
+    "static/media/f-p-3.jpg": "/Eflyer/static/media/f-p-3.30652f2ac44cb8e78aee.jpg",
+    "static/media/f-p-5.jpg": "/Eflyer/static/media/f-p-5.c5d9905cea80f0cacaf0.jpg",
+    "static/media/f-p-4.jpg": "/Eflyer/static/media/f-p-4.7f3daf7ae3af04a70e5b.jpg",
+    "static/media/img10.jpg": "/Eflyer/static/media/img10.48c70ea3d8e01947e2d3.jpg",
+    "static/media/f-p-1.jpg": "/Eflyer/static/media/f-p-1.e86008e44dd7bbe0fb64.jpg",
+    "static/media/f-p-8.jpg": "/Eflyer/static/media/f-p-8.282e70cf8d317006b7f7.jpg",
+    "static/media/f-p-7.jpg": "/Eflyer/static/media/f-p-7.7fb283e01dd0d5035351.jpg",
+    "static/media/f-p-6.jpg": "/Eflyer/static/media/f-p-6.9f553faa45a9cb3d48cf.jpg",
+    "static/media/banner-2.jpg": "/Eflyer/static/media/banner-2.6a7f26953fd547fa2f7e.jpg",
+    "static/media/bgbanner2.jpg": "/Eflyer/static/media/bgbanner2.890b5d6a657e17c75657.jpg",
+    "static/media/f-p-2.jpg": "/Eflyer/static/media/f-p-2.5aa0e1baa26f7b3f4bcc.jpg",
+    "static/media/img40.jpg": "/Eflyer/static/media/img40.9b8bce3f5b6410679aec.jpg",
+    "static/media/img1.jpg": "/Eflyer/static/media/img1.63fcd30a827050445137.jpg",
+    "static/media/login.jpg": "/Eflyer/static/media/login.8fcdd2e229acabffc4b8.jpg",
+    "static/media/checkout-bg.jpg": "/Eflyer/static/media/checkout-bg.b283243dae43de2ae687.jpg",
+    "static/media/logo.png": "/Eflyer/static/media/logo.e91704966290831f63a2.png",
+    "index.html": "/Eflyer/index.html",
+    "main.76429c10.css.map": "/Eflyer/static/css/main.76429c10.css.map",
+    "main.644f5175.js.map": "/Eflyer/static/js/main.644f5175.js.map",
+    "787.bed377d1.chunk.js.map": "/Eflyer/static/js/787.bed377d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76429c10.css",
+    "static/js/main.644f5175.js"
+  ]
+}
